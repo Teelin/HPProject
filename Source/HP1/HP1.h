@@ -3,6 +3,6 @@
 #ifndef __HP1_H__
 #define __HP1_H__
 
-#include "EngineMinimal.h"
+#include "Engine.h"
 
 #endif

@@ -8,8 +8,12 @@ class AHP1GameMode : public AGameModeBase
 {
 	GENERATED_BODY()
 
+		
 public:
 	AHP1GameMode();
+
+	
+
 };
 
 
